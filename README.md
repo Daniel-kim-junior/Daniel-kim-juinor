@@ -24,7 +24,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blue?style=flat-square&logo=velog&link=https://velog.io/@now20412041)](https://velog.io/@now20412041)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:now20412041@gmail.com)](mailto:now20412041@gmail.com)
 
-[![Minsung_git_status](https://github-readme-stats.vercel.app/api?username=jiokim-7&show_icons=true&theme=radical)
+[![Minsung_git_status](https://github-readme-stats.vercel.app/api?username=Daniel-kim-junior&show_icons=true&theme=radical)
 )](https://github.com/jiokim-7)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkrite)](https://solved.ac/jkrite/)

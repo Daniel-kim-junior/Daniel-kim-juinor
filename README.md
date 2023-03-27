@@ -28,3 +28,5 @@
 )](https://github.com/jiokim-7)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkrite)](https://solved.ac/jkrite/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-kim-junior&layout=compact&theme=tokyonight)
